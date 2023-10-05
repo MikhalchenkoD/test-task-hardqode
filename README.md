@@ -3,13 +3,16 @@
 
 ## Установка
 
-1. Установите зависимости: `pip install -r requirements.txt`
+```sh
+pip install -r requirements.txt
+```
 
 ## Использование
 
-1. python manage.py runserver
+```sh
+python manage.py runserver
+```
 
-Доступ к админ панеле\n
 Логин: root
 Пароль: 1234
 
